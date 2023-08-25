@@ -1,2 +1,1 @@
-# PreCourse_Henry
-Repositorio de Prueba
+Este proyecto es una prueba de como crear un repositorio y clonarlo a githud a mi computadora
